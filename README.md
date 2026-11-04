@@ -3,6 +3,16 @@
 Estudante de Ciência da Computação (6º período) na PUC Minas Poços de Caldas, focada em **Engenharia de Software** e **Engenharia de IA**. Tenho experiência no desenvolvimento de aplicações web/mobile completas e atualmente dedico minhas pesquisas a **Redes Neurais** e **Biometria Comportamental**.
 
 ---
+### 📊 Minhas Estatísticas no GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AliceMiranda1&show_icons=true&theme=dracula&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliceMiranda1&layout=compact&langs_count=8&theme=dracula" />
+</div>
+
+<br>
+
+---
 
 ### 💻 Tecnologias & Ferramentas
 
