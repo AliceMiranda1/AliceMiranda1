@@ -28,9 +28,8 @@ Tenho experiência prática no desenvolvimento de aplicações web e mobile, int
 
 ### 🚀 Projetos & Pesquisas de Destaque
 
-* 🤖 **Plataforma Imobiliária com Buscas por IA (Web & App):** Sistema web e aplicativo mobile (publicado na Play Store) desenvolvido ao longo de 3 meses com auxílio de IA Generativa avançada (Claude e Gemini) para acelerar a engenharia de software e implementar recursos de busca dinâmica de imóveis.
-* 🧠 **Dynamic BioSecurity: detecção de anomalias com redes neurais (Em Pesquisa):** Estudo e implementação de redes neurais treinadas com dados acadêmicos de biometria comportamental de usuários para detecção de anomalias e autorização dinâmica de acesso.
-* 🌐 **Sistemas Web Escaláveis:** Experiência prática no desenvolvimento de soluções personalizadas full-stack com PHP, JavaScript e bancos de dados relacionais/APIs REST.
+- 🤖 **Civitare Imóveis: Plataforma imobiliária com buscas por IA:** aplicativo Android publicado na Google Play Store e portal web, desenvolvidos em cerca de 3 meses com apoio de IA generativa. A busca conversacional usa um LLM para converter a linguagem natural em critérios de busca. Código-fonte não público, por confidencialidade.
+- 🧠 **Dynamic BioSecurity: detecção de anomalias com redes neurais (em pesquisa):** pipeline com Autoencoder em PyTorch, validado em dataset público de demonstração. Próxima etapa: dados de dinâmica de digitação.
 
 ---
 
