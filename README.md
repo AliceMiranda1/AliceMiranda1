@@ -17,8 +17,6 @@ Tenho experiência prática no desenvolvimento de aplicações web e mobile, int
   
   <!-- Backend, Banco & Cloud -->
   <img align="center" alt="SQL" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Supabase" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg">
-  <img align="center" alt="Firebase" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
   <img align="center" alt="Git" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
