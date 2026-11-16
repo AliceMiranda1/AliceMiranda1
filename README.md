@@ -1,8 +1,8 @@
 # Olá! Eu sou Alice Miranda 👋
 
-Sou estudante de Ciência da Computação (6º período) na PUC Minas, com foco em **Engenharia de Software e Inteligência Artificial**.
+Sou estudante de Ciência da Computação (6º período) na PUC Minas, com foco em Engenharia de Software e Inteligência Artificial.
 
-Tenho experiência prática no desenvolvimento de aplicações web e mobile, integração de APIs REST e construção de soluções full-stack. Atualmente, desenvolvo projetos envolvendo **LLMs, aplicações inteligentes, Machine Learning e redes neurais**, com interesse especial em Engenharia de IA.
+Tenho experiência prática no desenvolvimento de aplicações web e mobile, integração de APIs REST e construção de soluções full-stack. Atualmente, desenvolvo projetos com LLMs, Machine Learning e redes neurais, com interesse em Engenharia de IA.
 
 ---
 
